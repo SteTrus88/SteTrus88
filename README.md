@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SteTrus88 and I am a new software developer. 
 - 👀 I’m interested in ... walking my dog!
-- 🌱 I’m currently learning ... github, javaScript and java. 
+- 🌱 I’m currently learning ... github, javaScript, SQL and java. 
 - 💞️ I’m looking to collaborate on ... any projects directed by TechConnect.
 - 📫 How to reach me ... stephentruscott1@hotmail.com 
 
